@@ -1,7 +1,7 @@
-# Bomberman Unreal Engine 5
+# Bomberman - UE5
 
 ## Description
-Bomberman Unreal Engine 5 est une version du célèbre jeu Bomberman développée en utilisant le moteur de jeu Unreal Engine 5. Inspiré par le jeu classique, cette version offre des graphismes modernes, une jouabilité fluide et de nouvelles fonctionnalités tout en conservant l'essence du jeu original.
+Bomberman - UE5 est une version du célèbre jeu Bomberman développée en utilisant le moteur de jeu Unreal Engine 5. Inspiré par le jeu classique, cette version offre des graphismes modernes, une jouabilité fluide et de nouvelles fonctionnalités tout en conservant l'essence du jeu original.
 
 ## Fonctionnalités
 - **Jeu multijoueur local** : Affrontez vos amis dans des parties multijoueurs locales explosives jusqu'à 4 joueurs (sur la même machine).
@@ -15,8 +15,9 @@ Bomberman Unreal Engine 5 est une version du célèbre jeu Bomberman développé
 - **Visual Studio** : Environnement de développement intégré pour la programmation en C++.
 - **Git/Perforce** : Système de contrôle de version utilisé pour la gestion du code source.
 
-## Installation
-1. Téléchargez et installez Unreal Engine 5 sur votre machine.
-2. Clonez ce dépôt sur votre machine locale.
-3. Ouvrez le projet dans Unreal Engine 5.
-4. Compilez et lancez le jeu depuis l'éditeur.
+## Installation (Windows uniquement)
+1. Ouvrez le dossier "Builds" puis "Build_09292227"
+2. Lancez le jeu en cliquant sur l'exécutable "Bomberman.exe".
+
+## Aperçu du Gameplay
+![partie](https://github.com/AzNobody/Bomberman/assets/101289700/81f11619-598b-45fc-968a-4670dda2a1c6)
